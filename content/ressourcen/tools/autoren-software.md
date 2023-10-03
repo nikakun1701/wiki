@@ -31,7 +31,6 @@ Preis
 Link
 : [https://www.theologeek.ch/manuskript/](https://www.theologeek.ch/manuskript/)
 
-
 ## Scrivener
 Läuft auf
 : Windows, macOS, iOS
@@ -41,7 +40,6 @@ Preis
 
 Link
 : [https://www.literatureandlatte.com/scrivener/overview](https://www.literatureandlatte.com/scrivener/overview)
-
 
 ## Papyrus
 

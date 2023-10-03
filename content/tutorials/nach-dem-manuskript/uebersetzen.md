@@ -29,7 +29,7 @@ Leider ist das Handarbeit - oder man bezahlt dafür professionelle Übersetzer\*
 
 Vielleicht möchtest du Zeit sparen oder bist in der Zielsprache selbst nicht fit:
 viele Übersetzungstools wie z.B. DeepL versprechen hochqualitative Übersetzungen.
-Leider sind diese für Romanübersetzungen noch immer nicht gut genug – auch nicht 
+Leider sind diese für Romanübersetzungen noch immer nicht gut genug – auch nicht
 als Startpunkt.
 
 Sehen wir uns dazu mal ein Beispiel an[^2]. Der folgende Ausschnitt findet in einem kleinen
@@ -71,19 +71,19 @@ Eine manuelle Übersetzung könnte beispielsweise so aussehen:
 > "Money ain't no object, as long as you're fine with euros", I replied smugly. I often imagined using this phrase, but usually, I imagined myself being in some upper class fashion store in Paris. The ones where everything gets tailored to the customer, obviously. If this store did sell clothing at all, I wouldn't be surprised if it was of the more practical sort.
 >
 > Eduard Hopfbauer looked at me with the most serious face. "I'm sorry, but we only accept euro on Wednesdays."
-
+>
 > The others gasped silently. I, however, tried my best to contain the smug grin that wanted a place on my face. I knew that what Mr. Hopfbauer just said was complete and utter bullshit – Vienna, as I love it. With an equally serious face I took one of those business card calendars from the display on the counter and drew a big W over every Sat and vice versa. Once I was finished, I let my grin loose and presented the modified card to Mr. Hopfbauer.
 >
 > "I guess you're right. Today's our lucky day!"
 
 Analysieren wir einmal die Unterschiede der beiden Varianten:
 
-- Phrasologie: 
-    - "Money ain't no object" vs. "Money doesn't matter" – Ersteres ist hier korrekt, zweiteres nur verständlich.
-    - "How much do you want to spend" vs. "What's your limit?" – Das hat hier vor allem Einfluss auf die Distanz des Gesprächs; das erste ist sehr formell, das zweite eher lustig, nett, näher; fast fake-freundlich. Das passt zu dem Gespräch deutlich besser, vor allem, weil danach der Witz kommt.
-    - "But I don't want to be like that for once" Ist so ein deutsches Sprichwort, und fühlt sich nach super seltsam an, wenn man es auf Englisch übersetzt, weil man dadurch ein Germanism produziert. 
+- Phrasologie:
+  - "Money ain't no object" vs. "Money doesn't matter" – Ersteres ist hier korrekt, zweiteres nur verständlich.
+  - "How much do you want to spend" vs. "What's your limit?" – Das hat hier vor allem Einfluss auf die Distanz des Gesprächs; das erste ist sehr formell, das zweite eher lustig, nett, näher; fast fake-freundlich. Das passt zu dem Gespräch deutlich besser, vor allem, weil danach der Witz kommt.
+  - "But I don't want to be like that for once" Ist so ein deutsches Sprichwort, und fühlt sich nach super seltsam an, wenn man es auf Englisch übersetzt, weil man dadurch ein Germanism produziert.
 - Regionale Eigenheiten:
-    - Im Deutschen funktioniert der Witz, weil Herr Hopfbauer übertrieben Generös mal nicht so ist und dann leider, leider die Zahlung nicht hinhaut. Im Englischen brauchen wir ein anderes Setup, weil diese Subtilität so nicht funktioniert. Man kann aber dasselbe erreichen, wenn man die Punchline an den Setup anpasst, und mit "lucky day" spielt.
+  - Im Deutschen funktioniert der Witz, weil Herr Hopfbauer übertrieben Generös mal nicht so ist und dann leider, leider die Zahlung nicht hinhaut. Im Englischen brauchen wir ein anderes Setup, weil diese Subtilität so nicht funktioniert. Man kann aber dasselbe erreichen, wenn man die Punchline an den Setup anpasst, und mit "lucky day" spielt.
 
 Wir sehen also, dass wir für Übersetzungen deutlich generöser den _Geist_ des Textes übersetzen müssen, statt uns Wort-für-Wort entlang zu hangeln.
 
