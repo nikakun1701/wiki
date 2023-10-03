@@ -21,6 +21,11 @@
   url = "/ressourcen/allgemein/infos/"
   weight = 10
 
+[[main]]
+  name = "Tutorials"
+  url = "/tutorials/allgemein/infos/"
+  weight = 20
+
 #[[main]]
 #  name = "Blog"
 #  url = "/blog/"
