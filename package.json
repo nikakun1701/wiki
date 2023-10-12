@@ -13,7 +13,7 @@
     "lint:styles": "stylelint --cache \"themes/doks/assets/scss/**/*.{css,sass,scss}\"",
     "lint:markdown": "markdownlint-cli2 \"*.md\" \"content/**/*.md\"",
     "test": "npm run lint:markdown",
-    "build": "exec-bin node_modules/.bin/hugo/hugo --minify",
+    "build": "exec-bin node_modules/.bin/hugo/hugo --minify && npx cpy CNAME public/CNAME",
     "preview": "http-server --gzip --brotli --ext=html --cors",
     "clean": "npm run clean:build && npm run clean:lint && npm run clean:install",
     "clean:build": "shx rm -rf public resources .hugo_build.lock",
@@ -25,7 +25,8 @@
     "postinstall": "shx rm -rf node_modules/.bin/hugo && shx mkdir node_modules/.bin/hugo && shx cp node_modules/gethyas/node_modules/.bin/hugo/* node_modules/.bin/hugo"
   },
   "dependencies": {
-    "@hyas/doks-core": "^1.0.7"
+    "@hyas/doks-core": "^1.0.7",
+    "cpy-cli": "^5.0.0"
   },
   "engines": {
     "node": ">=16.12.0"
