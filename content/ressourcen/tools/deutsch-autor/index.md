@@ -48,4 +48,4 @@ Falls du in Word schreibst, öffnest du am Besten ein leeres Dokument, klickst e
 | <kbd>AltGr</kbd>+<kbd>Shift</kbd>+<kbd>Y</kbd>| ≥ |
 | <kbd>AltGr</kbd>+<kbd>Shift</kbd>+<kbd>+</kbd>| ± |
 | <kbd>AltGr</kbd>+<kbd>Space</kbd> | non-breaking space / geschütztes Leerzeichen |
-| <kbd>AltGr</kbd>+<kbd>Shift</kbd>+<kbd>-</kbd>| non-breaking hyphen / geschützter Bindestrich |
+| <kbd>AltGr</kbd>+<kbd>Shift</kbd>+<kbd>.</kbd>| non-breaking hyphen / geschützter Bindestrich |
